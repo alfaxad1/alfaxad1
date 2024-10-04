@@ -1,10 +1,9 @@
 - 👋 Hi, I’m @alfaxad1
-- 👀 I’m interested in c programming
-- 🌱 I’m currently learning c
-- 💞️ I’m looking to collaborate on complex c programs
+- 👀 I’m an aspiring developer
+- 💞️ I’m looking to collaborate with different developers on projects
 - 📫 How to reach me alfaxadder@gmail.com
 - 😄 Pronouns: he/him
-- ⚡ Fun fact: coder
+- ⚡ Fun fact: codeAce
 
 <!---
 alfaxad1/alfaxad1 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
