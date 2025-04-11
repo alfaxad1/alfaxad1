@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @alfaxad1
-- 👀 I’m an aspiring developer
+- 👀 I’m a fullstack developer
 - 💞️ I’m looking to collaborate with different developers on projects
 - 📫 How to reach me alfaxadder@gmail.com
 - 😄 Pronouns: he/him
